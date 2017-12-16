@@ -198,7 +198,7 @@ h2.style{
 	font-family: 'Didact Gothic', sans-serif;
 	letter-spacing:0px;
 	font-size: 5.5em;
-	color: rgb(164, 175, 32);
+	color: #7FA1C1;
 	text-transform: capitalize;
 }
 .header_right{
@@ -215,11 +215,11 @@ h2.style{
 }
 .cssmenu > ul > li.active a{
 	color:#ffffff;
-	background-color: rgb(191, 204, 41);
-	box-shadow: 0 6px rgb(168, 180, 32);
-	-webkit-box-shadow: 0 6px rgb(168, 180, 32);
-	-moz-box-shadow: 0 6px rgb(168, 180, 32);
-	-o-box-shadow: 0 6px rgb(168, 180, 32);
+	background-color: #7FA1C1;
+	box-shadow: 0 6px #4E78A0;
+	-webkit-box-shadow: 0 6px #4E78A0;
+	-moz-box-shadow: 0 6px #4E78A0;
+	-o-box-shadow: 0 6px #4E78A0;
 }
 .cssmenu > ul > li span img {
 	vertical-align: middle;
@@ -239,11 +239,11 @@ h2.style{
 }
 .cssmenu > ul > li.active a:hover{
 	color:#ffffff;
-	background-color: rgb(191, 204, 41);
-	box-shadow: 0 8px rgb(168, 180, 32);
-	-webkit-box-shadow: 0 6px rgb(168, 180, 32);
-	-moz-box-shadow: 0 6px rgb(168, 180, 32);
-	-o-box-shadow: 0 6px rgb(168, 180, 32);
+	background-color: #7FA1C1;
+	box-shadow: 0 8px #4E78A0;
+	-webkit-box-shadow: 0 6px #4E78A0;
+	-moz-box-shadow: 0 6px #4E78A0;
+	-o-box-shadow: 0 6px #4E78A0;
 	-webkit-transition: all 0.4s ease-out;
 	-moz-transition: all 0.4s ease-out;
 	-o-transition: all 0.4s ease-out;
@@ -254,11 +254,11 @@ h2.style{
 	-moz-transition: 0.9s;
 	-o-transition: 0.9s;
 	transition: 0.9s;
-	background-color: rgb(191, 204, 41);
-	box-shadow: 0 6px rgb(168, 180, 32);
-	-webkit-box-shadow: 0 6px rgb(168, 180, 32);
-	-moz-box-shadow: 0 6px rgb(168, 180, 32);
-	-o-box-shadow: 0 6px rgb(168, 180, 32);
+	background-color: #7FA1C1;
+	box-shadow: 0 6px #4E78A0;
+	-webkit-box-shadow: 0 6px #4E78A0;
+	-moz-box-shadow: 0 6px #4E78A0;
+	-o-box-shadow: 0 6px #4E78A0;
 	color: #ffffff;
 }
 /*slider*/
@@ -282,7 +282,7 @@ h2.style{
 	line-height:1.5em;
 	margin:0.5em 0;
 	font-size: 1.5em;
-	color:rgb(191, 204, 41);
+	color:#7FA1C1;
 	font-family: 'Didact Gothic', sans-serif;
 	text-transform: capitalize;
 	text-shadow: 0 1px 0 white;
