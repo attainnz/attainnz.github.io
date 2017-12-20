@@ -31,7 +31,7 @@ img{max-width:100%;}
 body {
 	font-family: 'Didact Gothic', Arial, Geneva, Helvetica, sans-serif;
 	font-size: 100%;
-	background: #ffffff;
+	background: #24292e;
 }
 .wrap{
 	margin:0 auto;
@@ -200,11 +200,12 @@ h2.style{
 	font-size: 5.5em;
 	color: #7FA1C1;
 	text-transform: capitalize;
+	font-weight: 600;
 }
 .header_right{
 	float: right;
 	margin-top: 3%;
-}
+}    font-weight: 600;
 /*menu*/
 .cssmenu {
 	display: block;
@@ -273,10 +274,10 @@ h2.style{
 }
 .main_text h2{
 	font-size: 2em;
-	color: #555555;
+	color:#7FA1C1;
 	font-family: 'Didact Gothic', sans-serif;
 	text-transform: capitalize;
-	text-shadow: 0 1px 0 white;
+	text-shadow: 0 1px 0 black;
 }
 .main_text h3{
 	line-height:1.5em;
@@ -285,7 +286,7 @@ h2.style{
 	color:#7FA1C1;
 	font-family: 'Didact Gothic', sans-serif;
 	text-transform: capitalize;
-	text-shadow: 0 1px 0 white;
+	text-shadow: 0 1px 0 black;
 }
 /*  GRID OF Four   ============================================================================= */
 .grid_1_of_4{
